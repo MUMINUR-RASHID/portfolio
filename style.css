@@ -1,0 +1,132 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.flex {
+    display: flex;
+}
+
+.width {
+    width: 50%;
+    margin-left: 70px;
+}
+
+.width img {
+    width: 70%;
+    margin-top: 40px;
+}
+
+section {
+    padding: 40px;
+}
+
+.button {
+    text-decoration: none;
+    color: royalblue;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(255, 242, 0), rgb(255, 128, 0));
+}
+
+.double-word {
+    color: rgb(255, 128, 0);
+
+}
+
+.single-word {
+    font-weight: 600;
+    font-size: 40px;
+    color: rgb(255, 85, 0);
+
+}
+
+.font {
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.background {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 245px;
+
+}
+
+.experience {
+    width: 33%;
+    text-align: justify;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    box-shadow: 20px 10px 20px gray;
+}
+
+
+
+h2 {
+    font-weight: 600;
+    font-size: 35px;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+footer {
+    color: royalblue;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 5px 0;
+}
+
+#green {
+
+    border-image: linear-gradient(green, rgb(67, 232, 17));
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+
+#red {
+    border-image: linear-gradient(red, rgb(239, 121, 74));
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+
+#blue {
+    border-image: linear-gradient(royalblue, rgb(52, 184, 241));
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+
+.ins {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#picture {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
+    background-position-y: bottom;
+}
+
+#banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 280px;
+}
