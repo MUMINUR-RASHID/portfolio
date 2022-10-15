@@ -77,12 +77,14 @@ section {
 
 h2 {
     font-weight: 600;
-    font-size: 35px;
+    font-size: 30px;
+    color: royalblue;
 }
 
 h3 {
     font-weight: 600;
-    font-size: 25px;
+    font-size: 20px;
+    color: rgb(255, 85, 0);
 }
 
 footer {
